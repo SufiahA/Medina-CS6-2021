@@ -1,6 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Website Page for 6th Grade at Medina Academy
+Please click on the link's below to go to the student's respective websites.
 
-You can use the [editor on GitHub](https://github.com/SufiahA/Medina-CS6-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1. [Hadeel Aiad's Website]('.\hadeel_website\Easy and Tasty Kunafa Recipe.html')
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+
+<!-- You can use the [editor on GitHub](https://github.com/SufiahA/Medina-CS6-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -34,4 +44,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
