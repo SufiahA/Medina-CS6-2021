@@ -1,4 +1,5 @@
-## Welcome to Website Page for 6th Grade at Medina Academy
+## Welcome to Website Page for 6th Grade 2021 at Medina Academy!
+This year, our 6th graders were tasked with creating a website based on a topic of their choosing.
 Please click on the link's below to go to the student's respective websites.
 
 1. [Anas Mohammed's Website]()
