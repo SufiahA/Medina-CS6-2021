@@ -2,12 +2,12 @@
 This year, our 6th graders were tasked with creating a website based on a topic of their choosing.
 Please click on the link's below to go to the student's respective websites.
 
-1. [Anas Mohammed's Website]()
+1. Anas Mohammed's Website
 2. [Hadeel's Website](hadeel_website/index.html)
 3. [Mariam Fattah's Website]()
-4. [Yousef Daardour's Website]()
-5. [Yousuf Haq's Website]()
-6. [Zaynab Maabreh's Website]()
+4. Yousef Daardour's Website
+5. Yousuf Haq's Website
+6. Zaynab Maabreh's Website
 2. [Zehra Ahmed's Website](zehra_website/index.html)
 8. [Zubair Mohammed-Rafi's Website](zubair_website/index.html)
 
