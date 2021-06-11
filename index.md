@@ -1,14 +1,14 @@
 ## Welcome to Website Page for 6th Grade at Medina Academy
 Please click on the link's below to go to the student's respective websites.
 
-1. [Hadeel's Website](hadeel_website/index.html)
-2. [Zehra's  Website](zehra_website/index.html)
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+1. [Anas Mohammed's Website]()
+2. [Hadeel's Website](hadeel_website/index.html)
+3. [Mariam Fattah's Website]()
+4. [Yousef Daardour's Website]()
+5. [Yousuf Haq's Website]()
+6. [Zaynab Maabreh's Website]()
+2. [Zehra Ahmed's Website](zehra_website/index.html)
+8. [Zubair Mohammed-Rafi's Website](zubair_website/index.html)
 
 <!-- You can use the [editor on GitHub](https://github.com/SufiahA/Medina-CS6-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
