@@ -1,7 +1,7 @@
 ## Welcome to Website Page for 6th Grade at Medina Academy
 Please click on the link's below to go to the student's respective websites.
 
-1. [Hadeel Aiad's Website]('hadeel_website/index.html')
+1. [Hadeel Aiad's Website](hadeel_website/index.html)
 2. 
 3. 
 4. 
