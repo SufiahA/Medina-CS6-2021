@@ -1,0 +1,17 @@
+body {
+     background-color: gray;
+    color: blue;
+    border-color:white;
+    border-style: solid;
+}   
+
+img {
+   width: 500px;
+}
+
+h1 {
+ font-size: 90px; 
+}
+
+   
+   
