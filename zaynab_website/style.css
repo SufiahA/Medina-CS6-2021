@@ -1,0 +1,27 @@
+h1 {
+  font-size: 65px;
+  text-align: center;
+  color: dodgerblue;
+  text-shadow: -2px 2px black; 
+}
+
+p1 {
+  text-align:center;
+  font-size: 18px
+}
+
+p2 {
+  font-size: 27px;
+  font-family:fantasy;
+  
+}
+
+ul {
+  font-size: 20px;
+  text-align: left
+}
+
+ol {
+  font-size: 20px;
+}
+
