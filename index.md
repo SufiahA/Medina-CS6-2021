@@ -7,7 +7,7 @@ Please click on the link's below to go to the student's respective websites.
 3. [Mariam Fattah's Website](mariam_website/index.html)
 4. Yousef Daardour's Website
 5. [Yousuf Haq's Website](yousuf_website/index.html)
-6. Zaynab Maabreh's Website
+6. [Zaynab Maabreh's Website](zaynab_website/index.html)
 2. [Zehra Ahmed's Website](zehra_website/index.html)
 8. [Zubair Mohammed-Rafi's Website](zubair_website/index.html)
 
